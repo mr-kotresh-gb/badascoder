@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 
+### Connect with me:
+[<img align="left" alt="BetaCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="BetaCoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BetaCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BetaCoder | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+<br />
 
 ### Languages and Tools:
 
@@ -41,3 +47,9 @@ Here are some ideas to get you started:
 :zap: GitHub Stats
 
 ![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=badascoder&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badascoder&layout=compact&theme=radical)](https://github.com/badascoder/)
+
+
+[twitter]: https://twitter.com/KotreshGB4
+[instagram]: https://www.instagram.com/mr_kotresh_gb/?hl=en
+[linkedin]: https://www.linkedin.com/in/kotresh-g-36970a171/
+[whatsapp]: https://wa.me/+918884861800
