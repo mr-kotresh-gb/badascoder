@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 
-### Connect with me:
-
-[<img align="left" alt="BetaCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="BetaCoder | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-<br />
 
 ### Languages and Tools:
 
