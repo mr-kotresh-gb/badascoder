@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...HTML,CSS,JS
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
--->
