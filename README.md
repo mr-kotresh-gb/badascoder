@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Pycharm" width="30px" src="https://www.google.com/search?q=pycharm+png&client=firefox-b-d&channel=crow2&sxsrf=ALeKk00wAAqTowiZAPfgb1kDOholkR4BZg:1603786363913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiC1pDkqdTsAhX7yTgGHQ3LBb8Q_AUoAXoECAUQAw&biw=1536&bih=760" />
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 
@@ -39,3 +38,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
+:zap: GitHub Stats
+
+![ReadMe Card](https://github-readme-stats.codestackr.vercel.app/api?username=badascoder&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badascoder&layout=compact&theme=radical)](https://github.com/badascoder/)
