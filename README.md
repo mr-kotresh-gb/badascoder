@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Development
 - 🌱 I’m currently learning ... Django
 - 👯 I’m looking to collaborate on ... Django
-- 🤔 I’m looking for help with ...HTML,CSS,JS
-- 💬 Ask me about ...Anything
-- 😄 Pronouns: ...He/Him
+- 🤔 I’m looking for help with ... HTML, CSS, JS
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: ... He/Him
 
 ### Connect with me:
 [<img align="left" alt="BetaCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
