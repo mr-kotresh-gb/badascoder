@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
 
-[![image](https://github.com/badascoder/badascoder/blob/main/hello%20world.jpg)](https://github.com/badascoder?tab=repositories)
+[![image](https://raw.githubusercontent.com/badascoder/badascoder/main/hi.gif)](https://github.com/badascoder?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/badascoder" alt="profile views">
