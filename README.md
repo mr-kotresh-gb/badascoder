@@ -4,7 +4,7 @@
 
 [![image](https://raw.githubusercontent.com/badascoder/badascoder/main/hi.gif)](https://github.com/badascoder?tab=repositories)
 
-<p align="center">
+<p>
   <img src="https://gpvc.arturio.dev/badascoder" alt="profile views">
 </p>
 
