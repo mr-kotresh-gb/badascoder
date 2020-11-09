@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="BetaCoder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BetaCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="BetaCoder | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="BetaCoder | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 <br />
 
 ### Languages and Tools:
@@ -52,3 +53,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/mr_kotresh_gb/?hl=en
 [linkedin]: https://www.linkedin.com/in/kotresh-g-36970a171/
 [whatsapp]: https://wa.me/+918884861800
+[codechef]: https://www.codechef.com/users/bgkotresh
