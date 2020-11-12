@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
 
-<!--[![image](https://raw.githubusercontent.com/badascoder/badascoder/main/hello-world.gif)](https://github.com/badascoder?tab=repositories)
-## Hello there, fellow \<coders/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![image](https://raw.githubusercontent.com/badascoder/badascoder/main/hello-world.gif)](https://github.com/badascoder?tab=repositories)
+
 <p>
   <img src="https://gpvc.arturio.dev/badascoder" alt="profile views">
 </p>
